@@ -30,7 +30,7 @@ These jupyter files contains the scripts needed for downstream analysis. Github 
 
 ## Others
 - The gene expression pattern can be explored at our [website](https://zhailab.bio.sustech.edu.cn/sc_circadian/)
-  - If you found any bugs in our website, please reported [here](https://github.com/ZhaiLab-SUSTech/circadian_notebooks_updated/issues/new)
+  - If you found any bugs in our website, please reported [here](https://github.com/ZhaiLab-SUSTech/circadian_notebooks_updated/issues)
 
 ## Notes
 All notebooks in the same file share the same jupyter kernel.
